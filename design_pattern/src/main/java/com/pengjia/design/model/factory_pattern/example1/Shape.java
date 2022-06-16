@@ -1,4 +1,4 @@
-package com.pengjia.design.pattern.factory;
+package com.pengjia.design.model.factory_pattern.example1;
 
 /**
  * 形状接口

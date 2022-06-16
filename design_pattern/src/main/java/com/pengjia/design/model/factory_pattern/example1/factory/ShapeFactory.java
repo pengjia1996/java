@@ -1,4 +1,9 @@
-package com.pengjia.design.pattern.factory;
+package com.pengjia.design.model.factory_pattern.example1.factory;
+
+import com.pengjia.design.model.factory_pattern.example1.Shape;
+import com.pengjia.design.model.factory_pattern.example1.impl.Circle;
+import com.pengjia.design.model.factory_pattern.example1.impl.Rectangle;
+import com.pengjia.design.model.factory_pattern.example1.impl.Square;
 
 /**
  * 形状工厂，生产不同的形状

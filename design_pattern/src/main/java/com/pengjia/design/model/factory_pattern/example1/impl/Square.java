@@ -1,4 +1,6 @@
-package com.pengjia.design.pattern.factory;
+package com.pengjia.design.model.factory_pattern.example1.impl;
+
+import com.pengjia.design.model.factory_pattern.example1.Shape;
 
 /**
  * 正方形

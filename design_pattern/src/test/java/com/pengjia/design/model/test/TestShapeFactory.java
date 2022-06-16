@@ -1,7 +1,7 @@
-package com.pengjia.design.pattern.test;
+package com.pengjia.design.model.test;
 
-import com.pengjia.design.pattern.factory.Shape;
-import com.pengjia.design.pattern.factory.ShapeFactory;
+import com.pengjia.design.model.factory_pattern.example1.Shape;
+import com.pengjia.design.model.factory_pattern.example1.factory.ShapeFactory;
 
 /**
  * 测试工厂模式
